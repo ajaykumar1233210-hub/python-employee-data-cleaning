@@ -28,7 +28,7 @@ Dataset: 208 rows and 8 columns
 ## Chart Preview
 
 ### Department Distribution
-![Department Chart](Department chart.png)
+![Department Chart](department_chart.png)
 
 ### Salary Distribution
-![Salary Chart](Salary chart.png)
+![Salary Chart](salary_chart.png)
