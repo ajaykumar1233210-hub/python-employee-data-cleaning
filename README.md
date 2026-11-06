@@ -22,13 +22,13 @@ Dataset: 208 rows and 8 columns
 
 ## Project Files
 - Data_Cleaning_Pandas_Visualisation.pdf: full code, outputs and charts
-- Raw_Employee_Data.xls: raw dataset (before cleaning)
+- Raw_Employee_Data.csv: raw dataset (before cleaning)
 - Cleaned_Employee_Data.xlsx: cleaned dataset
 
 ## Chart Preview
 
 ### Department Distribution
-![Department Chart](Department chart.png)
+![Department Chart](Department%20chart.png)
 
 ### Salary Distribution
-![Salary Chart](Salary chart.png)
+![Salary Chart](Salary%20chart.png)
